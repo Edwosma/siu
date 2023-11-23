@@ -1,0 +1,15 @@
+<?php return array (
+  'clientes-admin-lv' => 'App\\Http\\Livewire\\ClientesAdminLv',
+  'configuracion-plataforma-lv' => 'App\\Http\\Livewire\\ConfiguracionPlataformaLv',
+  'creacion-producto-lv' => 'App\\Http\\Livewire\\CreacionProductoLv',
+  'emprendedores-admin-lv' => 'App\\Http\\Livewire\\EmprendedoresAdminLv',
+  'emprendedores-home-lv' => 'App\\Http\\Livewire\\EmprendedoresHomeLv',
+  'emprendimientos-home-lv' => 'App\\Http\\Livewire\\EmprendimientosHomeLv',
+  'gestion-emprendedores-lv' => 'App\\Http\\Livewire\\GestionEmprendedoresLv',
+  'home-lv' => 'App\\Http\\Livewire\\HomeLv',
+  'regisro-emprendedores-lv' => 'App\\Http\\Livewire\\RegisroEmprendedoresLv',
+  'registro-cliente-lv' => 'App\\Http\\Livewire\\RegistroClienteLv',
+  'registro-emprededo-lv' => 'App\\Http\\Livewire\\RegistroEmprededoLv',
+  'registro-profesor-lv' => 'App\\Http\\Livewire\\RegistroProfesorLv',
+  'segundo-parcial-lv' => 'App\\Http\\Livewire\\SegundoParcialLv',
+);
